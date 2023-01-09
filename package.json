@@ -1,0 +1,20 @@
+{
+  "name": "ac-apps-minimal-utils-airtable",
+  "version": "0.0.1",
+  "description": "utils/airtable.js: A module bundled by ac-bundle-module.",
+  "main": "utils/airtable.js",
+  "scripts": {
+    "start": "node utils/airtable.js"
+  },
+  "keywords": [
+    "utils/airtable.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-apps-minimal/modules/ac-apps-minimal-utils-airtable/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
